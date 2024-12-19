@@ -1,0 +1,9 @@
+breastcancer/
+fastqc_results/
+map/
+mapped_reads/
+multiqc_output/
+*.err
+*out
+counts.txt
+counts.txt.summary
